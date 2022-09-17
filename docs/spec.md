@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # SHL Protocol Specification
 
+
 #### Actors
 
 * **Data Sharer**. Person who decides to share health data
